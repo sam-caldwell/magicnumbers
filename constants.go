@@ -1,4 +1,4 @@
-package MagicNumbers
+package magicnumbers
 
 const (
 
